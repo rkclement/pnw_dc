@@ -1,0 +1,3 @@
+"I'd like to learn more programming languages (currently I know Stata and a teeny bit of R and SQL). Potentially also survey data collection and analysis, and it's always good to go over more statistics, conceptually and pragmatically."
+"I'd like to learn more about how to program, how to design and build surveys and how to use R for qualitative and quantitative research."
+I'd like to learn more about using Microsoft Excel and SPSS for data analysis. I also need to learn how to use software that allows me to analyze data through hierarchical linear modeling.
